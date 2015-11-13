@@ -6,7 +6,7 @@ import time
 
 import urllib2,re,time,urllib,proxyIP,insertip,random,user_agents
 
-url = 'http://blog.csdn.net/wwg377655460/article/details/49515803'
+url = 'http://xxx'
 
 user_agent = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'  
 
